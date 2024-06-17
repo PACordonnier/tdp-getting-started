@@ -280,7 +280,7 @@ setup_python_venv() {
       server) pip install --editable tdp-server uvicorn==0.16.0 ;;
       esac
     done
-    pip install --editable tdp-lib[visualization]
+    pip install --editable tdp-lib
   )
   return 0
 }
