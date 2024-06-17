@@ -6,3 +6,6 @@ auth_to_local:
 core_site:
   hadoop.proxyuser.livy.hosts: "*"
   hadoop.proxyuser.livy.groups: "*"
+
+hadoop_release: hadoop-3.1.1-0.2
+hbase_release: hbase-2.1.10-1.1

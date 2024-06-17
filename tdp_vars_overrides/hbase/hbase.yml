@@ -8,3 +8,5 @@ hbase_master_restart: always
 hbase_rs_restart: always
 hbase_rest_restart: always
 phoenix_queryserver_restart: always
+
+hbase_release: hbase-2.1.10-1.1

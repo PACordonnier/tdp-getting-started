@@ -2,3 +2,6 @@
 spark_hs_start_on_boot: yes
 
 spark_hs_restart: always
+
+spark_release: spark-2.3.4-1.0-bin-tdp
+spark_dist_file: 'spark-2.3.4-1.0-bin.tar.gz'

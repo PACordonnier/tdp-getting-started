@@ -2,3 +2,6 @@
 zk_start_on_boot: yes
 
 zk_restart: always
+
+zookeeper_version: 3.5.9
+zookeeper_dist_release: apache-zookeeper-{{ zookeeper_version }}-bin
