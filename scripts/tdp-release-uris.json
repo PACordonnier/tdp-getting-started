@@ -113,8 +113,12 @@
       "link": "https://github.com/TOSIT-IO/kafka/releases/download/2.8.2-TDP-0.1.0/kafka_2.13-2.8.2-TDP-0.1.0-SNAPSHOT.tgz"
     },
     "jupyter-hub": {
-      "name": "jupyterhub-2.3.1-TDP-0.1.0.tar.gz",
-      "link": "https://github.com/TOSIT-IO/jupyterhub-pkg/releases/download/v2.3.1-TDP-0.1.0/jupyterhub-2.3.1-TDP-0.1.0.tar.gz"
+      "name": "jupyterhub-2.3.1-0.0.tar.gz",
+      "link": "https://github.com/TOSIT-IO/jupyterhub/releases/download/2.3.1-0.0/jupyterhub-2.3.1-0.0.tar.gz"
+    },
+    "jupyter-lab": {
+      "name": "jupyterlab-3.2.9-0.0.tar.gz",
+      "link": "https://github.com/TOSIT-IO/jupyterlab/releases/download/3.2.9-0.0/jupyterlab-3.2.9-0.0.tar.gz"
     },
     "livy": {
       "name": "apache-livy-0.8.0-incubating-TDP-0.1.0-SNAPSHOT-bin.zip",
