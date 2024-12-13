@@ -61,8 +61,8 @@
       "link": "https://archive.apache.org/dist/zookeeper/zookeeper-3.5.9/apache-zookeeper-3.5.9-bin.tar.gz"
     },
     "jmx": {
-      "name": "jmx_prometheus_javaagent-0.16.1.jar",
-      "link": "https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.16.1/jmx_prometheus_javaagent-0.16.1.jar"
+      "name": "jmx_prometheus_javaagent-0.20.0.jar",
+      "link": "https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.20.0/jmx_prometheus_javaagent-0.20.0.jar"
     },
     "solr": {
       "name": "solr-7.7.3.tgz",
@@ -87,8 +87,8 @@
       "link": "https://github.com/prometheus-community/postgres_exporter/releases/download/v0.12.0/postgres_exporter-0.12.0.linux-amd64.tar.gz"
     },
     "jmx": {
-      "name": "jmx_prometheus_javaagent-0.16.1.jar",
-      "link": "https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.16.1/jmx_prometheus_javaagent-0.16.1.jar"
+      "name": "jmx_prometheus_javaagent-0.20.0.jar",
+      "link": "https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.20.0/jmx_prometheus_javaagent-0.20.0.jar"
     },
     "prometheus": {
       "name": "prometheus-2.37.6.linux-amd64.tar.gz",
@@ -119,6 +119,10 @@
     "jupyter-lab": {
       "name": "jupyterlab-3.2.9-0.0.tar.gz",
       "link": "https://github.com/TOSIT-IO/jupyterlab/releases/download/3.2.9-0.0/jupyterlab-3.2.9-0.0.tar.gz"
+    },
+    "sparkmagic": {
+      "name": "sparkmagic-0.21.0-0.0.tar.gz",
+      "link": "https://github.com/TOSIT-IO/sparkmagic/releases/download/0.21.0-0.0/sparkmagic-0.21.0-0.0.tar.gz"
     },
     "livy": {
       "name": "apache-livy-0.8.0-incubating-TDP-0.1.0-SNAPSHOT-bin.zip",
